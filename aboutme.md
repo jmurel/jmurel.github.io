@@ -4,12 +4,23 @@ title: About me
 subtitle: What gives me the right to have a blog?
 ---
 
-Ultimately nothing. But I remember how difficult it was to parse dense books on machine learning and statistics as a humanities student. And I remember how unhelpful I found "Hello world"-style Python courses and tutorials in my own autodidactic endeavors. With this blog, I hoped to help others.
+Ultimately nothing. But I remember how difficult it was to parse dense books on machine learning and statistics as a humanities student. And I remember how unhelpful I found "Hello world"-style Python courses and tutorials in my own autodidactic endeavors. With this blog, I hope to help alleviate others with similar experiences.
 
 My research primarily resides in what is called the digital humanities (DH). This means my work applies computational and quantitative methods to address research questions in humanities disciplines. I have published research in computational bibliography, manuscript studies, and comics studies. I obtained my Ph.D. in English from Northeastern University, after which I held a postdoc appointment with Northeastern's Khoury College of Computer Sciences. I have worked as a Senior Technical Writer for IBM and Research Software Engineer at Princeton.
 
 ### Refereed conference & journal publications
-#### Journal
+#### Conference proceedings
+“MONSTERMASH: Multidirectional, Overlapping, Nested, Spiral Text Extraction for Recognizing Manuscripts in Arabic Script Handwriting,” (second author) with Danlu Chen, Taimoor Shahid, Xiang Zhang, Jonathan Parkes Allen, Taylor Berg-Kirkpatrick, and David Smith, Proceedings of the 3rd International Workshop on Computational Paleography (IWCP) 2024, pp. 87–101
+
+“Retrieving and Analyzing Translations of American Newspaper Comics with Visual Evidence,” with David Smith, Proceedings of the 6th International Workshop on Comics Analysis, Processing, and Understanding (MANPU) 2024, pp. 125–137
+
+“Self-training and Active Learning with Pseudo-Relevance Feedback for Handwriting Detection in Historical Print,” with David Smith, Proceedings of the 18th International Conference on Document Analysis and Recognition (ICDAR) 2024, pp. 305–324
+
+“Detecting Manuscript Annotations in Historical Print: Negative Evidence and Evaluation Metrics,” (first author) with David Smith, Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM) 2024, pp. 745-752
+
+“Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition,” (second author) with David Smith, Jonathan Parkes Allen, and Matthew Thomas Miller, Proceedings of the 3rd Computational Humanities Research Conference (CHR) 2023, pp. 206-221
+
+#### Journal articles
 “Readers and Annotations of the First English Qur’ān (1649), with a Global Census of Extant Copies,” Huntington Library Quarterly (accepted; forthcoming)
 
 “The Nature and Purpose of Public Dissections in Early Modern London,” Journal for the History of Medicine and Allied Sciences, 2024, pp.1-23, DOI: https://doi.org/10.1093/jhmas/jrad083
@@ -28,18 +39,7 @@ My research primarily resides in what is called the digital humanities (DH). Thi
 
 “The Multiple Temporalities of George Herbert’s The Temple,” George Herbert Journal, vol. 40, no. 1/2, Fall 2016/Spring 2017, pp. 41-58
 
-#### Conference Proceedings
-“MONSTERMASH: Multidirectional, Overlapping, Nested, Spiral Text Extraction for Recognizing Manuscripts in Arabic Script Handwriting,” (second author) with Danlu Chen, Taimoor Shahid, Xiang Zhang, Jonathan Parkes Allen, Taylor Berg-Kirkpatrick, and David Smith, Proceedings of the 3rd International Workshop on Computational Paleography (IWCP) 2024, pp. 87–101
-
-“Retrieving and Analyzing Translations of American Newspaper Comics with Visual Evidence,” with David Smith, Proceedings of the 6th International Workshop on Comics Analysis, Processing, and Understanding (MANPU) 2024, pp. 125–137
-
-“Self-training and Active Learning with Pseudo-Relevance Feedback for Handwriting Detection in Historical Print,” with David Smith, Proceedings of the 18th International Conference on Document Analysis and Recognition (ICDAR) 2024, pp. 305–324
-
-“Detecting Manuscript Annotations in Historical Print: Negative Evidence and Evaluation Metrics,” (first author) with David Smith, Proceedings of the 13th International Conference on Pattern Recognition Applications and Methods (ICPRAM) 2024, pp. 745-752
-
-“Automatic Collation for Diversifying Corpora: Commonly Copied Texts as Distant Supervision for Handwritten Text Recognition,” (second author) with David Smith, Jonathan Parkes Allen, and Matthew Thomas Miller, Proceedings of the 3rd Computational Humanities Research Conference (CHR) 2023, pp. 206-221
-
-#### Book Chapters
+#### Book chapters
 “Calvin and Hobbes: A Case Study of the Cartoon Fight Cloud” in BOOM! Splat: Comics and Violence, eds. Jim Coby and Joanna Davis-McElligatt (Jackson: University Press of Mississippi, 2024), pp.71-82
 
 “Iconography and Gender Identity in Transgender Comics,” in Beyond Binaries: Trans Identities in Contemporary Culture, eds. John Lamothe, Rachel Friedman, Michael Perez (Lanham: Lexington Books, 2021), pp. 95-108
